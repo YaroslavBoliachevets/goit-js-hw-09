@@ -31,7 +31,6 @@ function makeBtnOff(e) {
 
 function makeBtnOn(e) {
 	e.removeAttribute("disabled");
-
 }
 
 function changeBodyColor() {
